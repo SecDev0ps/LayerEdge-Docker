@@ -16,12 +16,12 @@
 - Node.js installed on your machine
 
 ## Installation in Docker
-    ```sh
+    ```
     git clone https://github.com/SecDev0ps/LayerEdge-Docker.git
     cd LedgeBot
     ```
 
-        ```sh
+        ```
     docker build -t layeredge .
     docker run -d layeredge
     ```
