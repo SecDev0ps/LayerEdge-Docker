@@ -23,7 +23,7 @@
     docker run -d layeredge
     
 
-## Installation
+## Installation on VPS/Server
 
 1. Clone the repository:
     ```sh
