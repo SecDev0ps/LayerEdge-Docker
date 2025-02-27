@@ -15,12 +15,23 @@
 
 - Node.js installed on your machine
 
+## Installation in Docker
+    ```sh
+    git clone https://github.com/SecDev0ps/LayerEdge-Docker.git
+    cd LedgeBot
+    ```
+
+        ```sh
+    docker build -t layeredge .
+    docker run -d layeredge
+    ```
+    
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Zlkcyber/LedgeBot.git
+    git clone https://github.com/SecDev0ps/LayerEdge-Docker.git
     cd LedgeBot
     ```
 
@@ -44,7 +55,6 @@
 
 
 ## All wallets information saved at `wallets.json`
-
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
