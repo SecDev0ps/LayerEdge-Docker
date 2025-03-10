@@ -5,7 +5,7 @@ import log from "./logger.js";
 import { newAgent } from "./helper.js";
 
 class LayerEdgeConnection {
-    constructor(proxy = null, privateKey = null, refCode = "O8Ijyqih") {
+    constructor(proxy = null, privateKey = null, refCode = "hATmByqX") {
         this.refCode = refCode;
         this.proxy = proxy;
         this.headers = {
